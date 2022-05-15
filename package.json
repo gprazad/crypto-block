@@ -1,0 +1,23 @@
+{
+  "name": "crypto-block",
+  "version": "1.0.0",
+  "description": "A simple cryptocurrency using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gprazad/crypto-block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gprazad/crypto-block/issues"
+  },
+  "homepage": "https://github.com/gprazad/crypto-block#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
